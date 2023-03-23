@@ -1,0 +1,4 @@
+/target/
+src/test/java/myCode/Dashboard.java
+src/test/java/myCode/LoginPage.java
+src/test/java/myCode/LoginPageTest.java

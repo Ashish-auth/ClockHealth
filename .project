@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ChcProject</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>med1.txt</name>
+			<type>1</type>
+			<location>C:/Users/Prasanna Lakshmi/OneDrive - XYRAM SOFTWARE SOLUTIONS PRIVATE LIMITED/Desktop/CHC/med1.txt</location>
+		</link>
+		<link>
+			<name>src/test/java/Pages/Meds.jpg</name>
+			<type>1</type>
+			<location>C:/Users/Prasanna Lakshmi/OneDrive - XYRAM SOFTWARE SOLUTIONS PRIVATE LIMITED/Desktop/CHC/Meds.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>
